@@ -8,3 +8,5 @@ If you're working with AutoCAD, AVEVA PDMS or other software products which are 
 *IMPORTANT:
 The included 'lmstat.exe' form FlexLm toolkit is without warranty, ONLY for testing.
 Please use your own tool (with modification in configuration) !!!*
+
+_More informations see:_ http://github.com/weagruena/FlexLmTool/wiki/FlexLmTool
