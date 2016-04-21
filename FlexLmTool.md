@@ -1,0 +1,10 @@
+# Introduction #
+
+If you're working with AutoCAD, AVEVA PDMS or other software products which are using FlexLM as licensing tool,
+**FlexLmTool** should help you to get an overview of used licenses.
+
+**IMPORTANT:
+The included 'lmstat.exe' form FlexLm toolkit is without warranty, ONLY for testing.
+Please use your own tool (with modification in configuration) !!!**
+
+_More informations see:_ http://github.com/weagruena/FlexLmTool/wiki/FlexLmTool
